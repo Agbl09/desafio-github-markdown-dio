@@ -1,7 +1,8 @@
 # 🚀 Desafio de GitHub  
 
-## ✍️ Descrição  
-Este repositório foi criado como parte de um desafio do curso da DIO. Nele, trabalhamos com **colaboração no GitHub**, incluindo branches, commits, pull requests e issues.  
+✍ Descrição 
+---
+↳ Este repositório foi criado como parte de um desafio do curso da DIO. Nele, trabalhamos com **colaboração no GitHub**, incluindo branches, commits, pull requests e issues.   
 
 ## 📋 Instruções  
 1. **Clone o repositório**:  
