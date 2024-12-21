@@ -39,6 +39,6 @@ Este repositório foi criado como parte de um desafio do curso da DIO. Nele, tra
 
 ✔️ Como abrir um Pull Request: [Leia mais aqui](https://docs.github.com/en/pull-requests).
 
-**💻 Divirta-se colaborando e aprendendo mais sobre Git e GitHub!**
+## 💻 Divirta-se colaborando e aprendendo mais sobre Git e GitHub!
 
-Se precisar de mais ajustes ou quiser adicionar algo específico, é só falar! 🚀
+Se precisar de mais ajustes ou quiser adicionar algo específico, é só falar! 😊
